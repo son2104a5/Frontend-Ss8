@@ -1,0 +1,15 @@
+div {
+    width: 300px;
+    height: 200px;
+    background-color: rgb(194, 241, 233);
+    padding: 10px;
+}
+
+li{
+    list-style-type: circle;
+    cursor: pointer;
+}
+
+li:hover{
+    color: red;
+}

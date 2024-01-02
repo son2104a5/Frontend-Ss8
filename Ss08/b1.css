@@ -1,0 +1,15 @@
+.bg {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(244, 220, 197);
+    padding: 10px;
+}
+
+input{
+    margin-block-end: 10px;
+    cursor: pointer;
+}
+
+input:hover{
+    background-color: yellow;
+}
